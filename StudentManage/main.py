@@ -276,4 +276,4 @@ def refresh():
     return amount, students
 
 
-menuPane()
+load()
