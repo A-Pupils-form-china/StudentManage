@@ -1,0 +1,2 @@
+# StudentManage
+studentmanage里面main.py是主函数，mytool写了登录跟注册界面，database里面包含那些数据
